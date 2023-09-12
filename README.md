@@ -3,4 +3,4 @@
 create only using kotlin 
 it just a simple one nothing amazing 
 
-![alt text](https://imgur.com/gallery/fyaxBNz)
+![alt text](https://i.imgur.com/YHjDMG1.png)
